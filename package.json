@@ -1,0 +1,14 @@
+{
+  "name": "@camzach/linter-configs",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "index.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "eslint",
+    "stylelint"
+  ]
+}

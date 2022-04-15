@@ -1,0 +1,13 @@
+{
+  "name": "@camzach/stylelint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "@linaria/stylelint": "^3.0.0-beta.15",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^22.0.0"
+  }
+}
